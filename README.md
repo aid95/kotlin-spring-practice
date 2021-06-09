@@ -16,3 +16,8 @@
 ## 5일차
 
 - [스프링 기반 REST API 개발](https://www.inflearn.com/course/spring_rest-api#) 실습
+
+## 6일차
+
+- [Testing a Spring application with JUnit and Kotlin. Tutorial](https://www.youtube.com/watch?v=lCBjvlAyuiY)
+- [Getting the Most from JPA with Kotlin](https://www.youtube.com/watch?v=a_6V8xwiv04&t=2659s)
